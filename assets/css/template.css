@@ -184,7 +184,7 @@ iframe {
 }
 
 .demo-preview .new-label {
-    background: #e41919;
+    background: #4a90e2;
     color: #fff;
     position: absolute;
     top: -15px;
@@ -212,7 +212,7 @@ iframe {
 */
 
 a {
-    color: #e41919;
+    color: #4a90e2;
     transition: all .3s ease-in-out;
 }
 
@@ -244,7 +244,7 @@ h5 > a:hover,
 h5 > a:focus,
 h6 > a:hover,
 h6 > a:focus {
-    color: #e41919;
+    color: #4a90e2;
 }
 
 p,
@@ -405,7 +405,7 @@ pre {
 }
 
 .progress-bar.progress-bar-brand {
-    background-color: #e41919;
+    background-color: #4a90e2;
 }
 
 .pb-number-box {
@@ -567,7 +567,7 @@ button {
 }
 
 .btn.btn-brand:before {
-    background: #e41919;
+    background: #4a90e2;
 }
 
 .btn.btn-brand.btn-outline {
@@ -591,7 +591,7 @@ button {
 }
 
 .btn.btn-gray:before {
-    background: #e41919;
+    background: #4a90e2;
 }
 
 .btn.btn-gray.btn-outline {
@@ -666,7 +666,7 @@ button {
 
 .breadcrumb-item > a:hover,
 .breadcrumb-item > a:focus {
-    color: #e41919;
+    color: #4a90e2;
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
@@ -762,7 +762,7 @@ button {
 }
 
 .nav-pills .nav-link.active {
-    border-color: #e41919;
+    border-color: #4a90e2;
 }
 
 .nav-pills .nav-link.active,
@@ -862,7 +862,7 @@ button {
 .page-item.active .page-link,
 .page-link:focus,
 .page-link:hover {
-    border-color: #e41919;
+    border-color: #4a90e2;
     color: #202020;
 }
 
@@ -1300,7 +1300,7 @@ button {
 }
 
 .slides-pagination a.current {
-    background: #e41919;
+    background: #4a90e2;
 }
 
 @media (max-width: 992px) {
@@ -1336,7 +1336,7 @@ button {
 }
 
 .owl-dots .owl-dot.active {
-    background: rgba(228, 25, 25, .7);
+    background: #4a90e2;
 }
 
 /* Clients */
@@ -1399,7 +1399,7 @@ button {
 
 .social-icons > li > a:hover,
 .social-icons > li > a:focus {
-    color: #e41919;
+    color: #4a90e2;
 }
 
 /*------------------------------------------------------------------
@@ -2014,11 +2014,11 @@ button {
 .header.header-small .inner-nav > ul > li > a:hover,
 .header.header-small .inner-nav > ul > li > a:focus,
 .header.header-small .inner-nav > ul > li > a.active {
-    color: #e41919;
+    color: #4a90e2;
 }
 
 .header.header-small .inner-nav > ul > li.sub-menu-open > a {
-    color: #e41919;
+    color: #4a90e2;
 }
 
 /*------------------------------------------------------------------
@@ -2106,8 +2106,8 @@ button {
 }
 
 .inner-nav .sub-menu li.sub-menu-open > a {
-    border-color: #e41919;
-    color: #e41919;
+    border-color: #4a90e2;
+    color: #4a90e2;
 }
 
 .inner-nav .sub-menu li a {
@@ -2119,7 +2119,7 @@ button {
 
 .inner-nav .sub-menu li a:hover {
     color: #777;
-    color: #e41919;
+    color: #4a90e2;
 }
 
 .inner-nav .sub-menu li:hover::after {
@@ -2821,7 +2821,7 @@ button {
 .filters > li a:hover,
 .filters > li a.current {
     opacity: 1;
-    color: #e41919;
+    color: #4a90e2;
 }
 
 @media (max-width: 767px) {
@@ -3189,7 +3189,7 @@ a[rel~="gallery"]:hover {
     position: absolute;
     top: 20px;
     right: 20px;
-    background-color: #e41919;
+    background-color: #4a90e2;
     padding: 4px 8px;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -3256,7 +3256,7 @@ a[rel~="gallery"]:hover {
 
 .post-meta a:hover,
 .post-meta a:focus {
-    color: #e41919;
+    color: #4a90e2;
 }
 
 .post-info {
@@ -3270,7 +3270,7 @@ a[rel~="gallery"]:hover {
 
 .post-info a:hover,
 .post-info a:focus {
-    color: #e41919;
+    color: #4a90e2;
 }
 
 .post-tags {
@@ -3291,7 +3291,7 @@ a[rel~="gallery"]:hover {
 }
 
 .post-tags a:hover {
-    background: #e41919;
+    background: #4a90e2;
     color: #fff;
     opacity: 1;
 }
@@ -3326,7 +3326,7 @@ a[rel~="gallery"]:hover {
 }
 
 .post-content blockquote:hover {
-    border-color: #e41919;
+    border-color: #4a90e2;
 }
 
 .post-content ul,
@@ -3418,7 +3418,7 @@ a[rel~="gallery"]:hover {
 
 .comment-meta-author a:hover,
 .comment-meta-author a:focus {
-    color: #e41919;
+    color: #4a90e2;
 }
 
 .comment-meta-date {
@@ -3432,7 +3432,7 @@ a[rel~="gallery"]:hover {
 
 .comment-meta-date a:hover,
 .comment-meta-date a:focus {
-    color: #e41919;
+    color: #4a90e2;
     opacity: 1;
 }
 
@@ -3454,7 +3454,7 @@ a[rel~="gallery"]:hover {
 
 .comment-reply > a:hover,
 .comment-reply > a:focus {
-    background: #e41919;
+    background: #4a90e2;
     color: #fff;
 }
 
@@ -3500,7 +3500,7 @@ a[rel~="gallery"]:hover {
 
 .widget a:hover,
 .widget a:focus {
-    color: #e41919;
+    color: #4a90e2;
 }
 
 .widget input,
@@ -3544,7 +3544,7 @@ a[rel~="gallery"]:hover {
 }
 
 .search-button:hover {
-    color: #e41919;
+    color: #4a90e2;
 }
 
 .widget_archive ul li a,
@@ -3634,7 +3634,7 @@ a[rel~="gallery"]:hover {
 }
 
 .widget_tag_cloud .tagcloud > a:hover {
-    background: #e41919;
+    background: #4a90e2;
     color: #fff;
     opacity: 1;
 }
@@ -3807,7 +3807,7 @@ a[rel~="gallery"]:hover {
 .bg-dark a:not(.btn),
 .bg-gradient a:not(.btn),
 .module-dark a:not(.btn) {
-    color: #e41919;
+    color: #4a90e2;
     transition: all .3s ease-in-out;
 }
 
@@ -3933,7 +3933,7 @@ a[rel~="gallery"]:hover {
 .module-dark h6 > a:focus,
 .module-dark .h6 > a:hover,
 .module-dark .h6 > a:focus {
-    color: #e41919;
+    color: #4a90e2;
 }
 
 .bg-dark h1,
@@ -4051,7 +4051,7 @@ a[rel~="gallery"]:hover {
 .bg-dark .nav-pills .nav-link.active,
 .bg-gradient .nav-pills .nav-link.active,
 .module-dark .nav-pills .nav-link.active {
-    border-color: #e41919;
+    border-color: #4a90e2;
 }
 
 .bg-dark .nav-pills .nav-link.active,
@@ -4060,7 +4060,7 @@ a[rel~="gallery"]:hover {
 .bg-gradient .show > .nav-pills .nav-link,
 .module-dark .nav-pills .nav-link.active,
 .module-dark .show > .nav-pills .nav-link {
-    color: #e41919;
+    color: #4a90e2;
 }
 
 .bg-dark .accordion .card,
@@ -4084,7 +4084,7 @@ a[rel~="gallery"]:hover {
 .bg-dark .accordion .card-header a:hover,
 .bg-gradient .accordion .card-header a:hover,
 .module-dark .accordion .card-header a:hover {
-    color: #e41919;
+    color: #4a90e2;
 }
 
 .bg-dark .blog-grid .post,
@@ -4112,7 +4112,7 @@ a[rel~="gallery"]:hover {
 .bg-gradient .post-meta a:focus,
 .module-dark .post-meta a:hover,
 .module-dark .post-meta a:focus {
-    color: #e41919;
+    color: #4a90e2;
 }
 
 .bg-dark .owl-dots .owl-dot,
@@ -4124,7 +4124,7 @@ a[rel~="gallery"]:hover {
 .bg-dark .owl-dots .owl-dot.active,
 .bg-gradient .owl-dots .owl-dot.active,
 .module-dark .owl-dots .owl-dot.active {
-    background: rgba(228, 25, 25, .7);
+    background: #4a90e2;
 }
 
 .bg-dark,
